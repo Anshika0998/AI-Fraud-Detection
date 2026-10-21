@@ -1,0 +1,28 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+kaggle.json
+.kaggle/
+
+# Dataset
+data/
+
+# Generated prediction output
+predictions.csv
+
+# Editor files
+.vscode/
